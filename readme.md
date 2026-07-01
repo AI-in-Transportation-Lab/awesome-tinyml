@@ -33,7 +33,7 @@ Whether you're designing deep learning models for microcontrollers, optimizing i
 - [June 21, 2025]: Preprint is now available in [arXiv](https://arxiv.org/abs/2506.18927).
 
 ## Last Updated
-June 30, 2026 at 02:51:49 AM UTC
+July 1, 2026 at 02:57:17 AM UTC
 
 
 ## Theorem
@@ -42,7 +42,7 @@ June 30, 2026 at 02:51:49 AM UTC
   [He, Warden, et al., 2020 – arXiv:2010.08678](https://arxiv.org/abs/2010.08678)
   *Presents the architecture and design of TensorFlow Lite Micro for microcontrollers and resource-constrained systems.*
 
-## Papers (72)
+## Papers (73)
 - [Wake Vision: A Tailored Dataset and Benchmark Suite for TinyML Computer Vision Applications](https://arxiv.org/abs/2405.00892)
 - [Integration of TinyML and LargeML: A Survey of 6G and Beyond](https://arxiv.org/abs/2505.15854)
 - [msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML](https://arxiv.org/abs/2505.11483)
@@ -115,6 +115,7 @@ June 30, 2026 at 02:51:49 AM UTC
 - [LiteAtt: A Peer-to-Peer Self-Attestation Framework and Handshake Protocol for Connected IoT Devices](https://arxiv.org/abs/2603.19727)
 - [ArrythML: An Autoencoder-Based TinyML Approach for On-Device Arrhythmia Detection on Resource-Constrained Embedded Systems](https://arxiv.org/abs/2606.02256)
 - [Running hardware-aware neural architecture search on embedded devices under 512MB of RAM](https://arxiv.org/abs/2606.14824)
+- [TinyML for On-Device and Edge Analytics in Wireless Networks: A Survey of Deployments, Opportunities, and Concept-Drift Mitigation](https://arxiv.org/abs/2606.30843)
 
 
 ## Library
