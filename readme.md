@@ -42,7 +42,8 @@ July 24, 2026 at 02:11:08 AM UTC
   [He, Warden, et al., 2020 – arXiv:2010.08678](https://arxiv.org/abs/2010.08678)
   *Presents the architecture and design of TensorFlow Lite Micro for microcontrollers and resource-constrained systems.*
 
-## Papers (73)
+## Papers (74)
+- [TinyScope: Lightweight Hyperspectral Tissue Classification Using TinyML Inference on a Single-board Computer](https://fei-lab.org/wp-content/uploads/2026/04/Rudro_2026_SPIE_TinyScopeTinyMLClassification.pdf)
 - [Wake Vision: A Tailored Dataset and Benchmark Suite for TinyML Computer Vision Applications](https://arxiv.org/abs/2405.00892)
 - [Integration of TinyML and LargeML: A Survey of 6G and Beyond](https://arxiv.org/abs/2505.15854)
 - [msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML](https://arxiv.org/abs/2505.11483)
