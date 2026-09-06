@@ -131,7 +131,7 @@ September 6, 2026 at 02:32:42 AM UTC
 * [TensorFlow Lite Micro: Embedded ML on Microcontrollers](https://arxiv.org/abs/2010.08678) — Covers architecture, design, and performance trade-offs
 * [On-Device Training Under 256 KB RAM](https://arxiv.org/abs/2203.09795) — Demonstrates methods for training ML models within severe memory constraints
 * [Benchmarking TinyML Systems](https://arxiv.org/abs/2112.01319) — Discusses performance evaluation and standardization needs in TinyML
-* [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) — World's first LLM on Nintendo 64. 819K-parameter nano-GPT transformer running live inference on the MIPS R4300i CPU (93.75 MHz, 4 MB RAM) at 60 tok/s. The ultimate TinyML demo: a Zelda-style dungeon crawler with AI NPCs on 1996 console hardware. Uses RSP vector unit for matrix multiplication.
+* [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) — A 6.36M-parameter ternary transformer running byte-level inference on the Nintendo 64's VR4300 MIPS III CPU (93.75 MHz, 4 MB RAM) for its AI NPCs: 1.23 tok/s scalar, 2.19 tok/s via an RSP vector-unit overlay, measured under the ares emulator. A Zelda-style dungeon crawler built with libdragon.
 
 ## Tutorial
 
