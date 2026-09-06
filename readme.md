@@ -131,7 +131,10 @@ September 6, 2026 at 02:32:42 AM UTC
 * [TensorFlow Lite Micro: Embedded ML on Microcontrollers](https://arxiv.org/abs/2010.08678) — Covers architecture, design, and performance trade-offs
 * [On-Device Training Under 256 KB RAM](https://arxiv.org/abs/2203.09795) — Demonstrates methods for training ML models within severe memory constraints
 * [Benchmarking TinyML Systems](https://arxiv.org/abs/2112.01319) — Discusses performance evaluation and standardization needs in TinyML
-* [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) — A 6.36M-parameter ternary transformer running byte-level inference on the Nintendo 64's VR4300 MIPS III CPU (93.75 MHz, 4 MB RAM) for its AI NPCs: 1.23 tok/s scalar, 2.19 tok/s via an RSP vector-unit overlay, measured under the ares emulator. A Zelda-style dungeon crawler built with libdragon.
+* [Legend of Elya (Nintendo 64)](https://github.com/Scottcjn/legend-of-elya-n64) — A 6.36M-parameter ternary transformer running byte-level inference on the Nintendo 64's VR4300 MIPS III CPU (93.75 MHz, 4 MB RAM) for its AI NPCs: 1.23 tok/s scalar, 2.19 tok/s via an RSP vector-unit overlay, measured under the ares emulator. A Zelda-style dungeon crawler built with libdragon.
+* [Legend of Elya (Sega Genesis)](https://github.com/Scottcjn/legend-of-elya-genesis) — An integer-only ternary transformer (mixture-of-experts) LLM on the Sega Genesis 68000, using memory-mapped cartridge ROM for zero-cost expert routing.
+* [Elya SNES](https://github.com/Scottcjn/elya-snes) — A ternary transformer LLM on the SNES 65816; a quantization study finding ternary beats int8 by 2.02x because the cost is operand traffic, not arithmetic.
+* [Elya NES](https://github.com/Scottcjn/elya-nes) — A ternary transformer LLM on the NES 1.79 MHz 6502 with an 8-bit accumulator: exact cycle counts, 0.634 s/token, verified token-exact against a host reference.
 
 ## Tutorial
 
