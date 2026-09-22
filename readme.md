@@ -124,6 +124,8 @@ September 22, 2026 at 02:58:37 AM UTC
 
 ## Library
 
+* [Mandelbrot Fractal Neural Synthesis & WERR](https://github.com/pCwOrM/mandelbrot-fractal-neural-synthesis) - Zero-memory procedural parameter derivation and deterministic sub-2ms System-1 decision engine from dynamical boundaries for extreme edge systems
+
 * [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers) — Google's official framework for TinyML deployment
 * [CMSIS-NN](https://github.com/ARM-software/CMSIS_5) — ARM’s optimized neural network kernels for Cortex-M processors
 * [uTensor](https://github.com/uTensor/uTensor) — Lightweight inference engine for ARM Cortex-M devices
