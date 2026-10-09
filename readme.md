@@ -33,7 +33,7 @@ Whether you're designing deep learning models for microcontrollers, optimizing i
 - [June 21, 2025]: Preprint is now available in [arXiv](https://arxiv.org/abs/2506.18927).
 
 ## Last Updated
-October 8, 2026 at 04:08:35 AM UTC
+October 9, 2026 at 04:13:48 AM UTC
 
 
 ## Theorem
