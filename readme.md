@@ -136,6 +136,7 @@ October 20, 2026 at 03:06:06 AM UTC
 * [On-Device Training Under 256 KB RAM](https://arxiv.org/abs/2203.09795) — Demonstrates methods for training ML models within severe memory constraints
 * [Benchmarking TinyML Systems](https://arxiv.org/abs/2112.01319) — Discusses performance evaluation and standardization needs in TinyML
 * [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) — World's first LLM on Nintendo 64. 819K-parameter nano-GPT transformer running live inference on the MIPS R4300i CPU (93.75 MHz, 4 MB RAM) at 60 tok/s. The ultimate TinyML demo: a Zelda-style dungeon crawler with AI NPCs on 1996 console hardware. Uses RSP vector unit for matrix multiplication.
+* [VoxRT Wake-Word](https://github.com/VoxRT/voxrt-wake-word-linux) — 100 KB on-device wake-word detection model running at 5.3% CPU sustained on a Raspberry Pi Zero 2 W (Cortex-A53 at 1 GHz, 512 MB RAM). Part of a Rust runtime with native SDKs for Linux (aarch64), iOS, Android, and WebAssembly. Reproducible benchmarks measured on live-mic input for 60-second sustained runs are published in the repository's README.
 
 ## Tutorial
 
