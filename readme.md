@@ -33,7 +33,7 @@ Whether you're designing deep learning models for microcontrollers, optimizing i
 - [June 21, 2025]: Preprint is now available in [arXiv](https://arxiv.org/abs/2506.18927).
 
 ## Last Updated
-November 4, 2026 at 04:32:45 AM UTC
+November 6, 2026 at 04:47:51 AM UTC
 
 
 ## Theorem
@@ -42,7 +42,7 @@ November 4, 2026 at 04:32:45 AM UTC
   [He, Warden, et al., 2020 – arXiv:2010.08678](https://arxiv.org/abs/2010.08678)
   *Presents the architecture and design of TensorFlow Lite Micro for microcontrollers and resource-constrained systems.*
 
-## Papers (82)
+## Papers (83)
 - [Wake Vision: A Tailored Dataset and Benchmark Suite for TinyML Computer Vision Applications](https://arxiv.org/abs/2405.00892)
 - [Integration of TinyML and LargeML: A Survey of 6G and Beyond](https://arxiv.org/abs/2505.15854)
 - [msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML](https://arxiv.org/abs/2505.11483)
@@ -125,6 +125,7 @@ November 4, 2026 at 04:32:45 AM UTC
 - [Heart Signal (ECG) as Vibration Signature for Human Authentication Using TinyML](https://arxiv.org/abs/2610.24761)
 - [Replica-Aware Split Inference for Edge IoT Systems](https://arxiv.org/abs/2611.04779)
 - [Edge AI and TinyML for Resource-Constrained Agriculture: Hardware Platforms, Model Optimization, and Deployment Strategies](https://arxiv.org/abs/2603.15085)
+- [Energy Measurement and Optimization of TinyML in Resource-Constrained Embedded Systems: A Systematic Mapping Study](https://arxiv.org/abs/2611.07264)
 
 
 ## Library
