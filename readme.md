@@ -129,7 +129,7 @@ November 22, 2026 at 04:44:37 AM UTC
 
 
 ## Library
-
+* [Chebyshev-Compressor](https://github.com/Genesis410/chebyshev-compressor) - Constant-state recurrent model compression for resource-constrained embedded AI (distills PyTorch/ONNX recurrent models into an exact 96–448 byte persistent RAM C99 runtime for ESP32/STM32).
 * [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers) — Google's official framework for TinyML deployment
 * [CMSIS-NN](https://github.com/ARM-software/CMSIS_5) — ARM’s optimized neural network kernels for Cortex-M processors
 * [uTensor](https://github.com/uTensor/uTensor) — Lightweight inference engine for ARM Cortex-M devices
